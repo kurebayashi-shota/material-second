@@ -1,0 +1,24 @@
+{
+    "chapter1":[
+        {
+            "value":"おはよう"
+        },
+        {
+            "value":"こんにちは"
+        },
+        {
+            "value":"こんばんわ"
+        }
+    ],
+    "chapter2":[
+        {
+            "value":"GoodMorning"
+        },
+        {
+            "value":"Hello"
+        },
+        {
+            "value":"GoodEvening"
+        }
+    ]
+}
